@@ -1,1 +1,2 @@
-# JAVA-
+# DictionaryApp
+My Dictionary App
